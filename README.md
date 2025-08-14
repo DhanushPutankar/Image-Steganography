@@ -22,7 +22,7 @@ This project is designed for educational purposes, showcasing how encoding and d
 📸 Screenshots
 
 ### App Logo
-<img src="assets/screenshots/App Logo.png" width="200">
+<img src="assets/screenshots/App Logo.png" width="400">
 
 ---
 
@@ -69,7 +69,7 @@ This project is designed for educational purposes, showcasing how encoding and d
 ### Additional Pages
 | Feedback Page | About Us Page | Settings Page |
 |---------------|--------------|---------------|
-| <img src="assets/screenshots/Feedback Page.png" width="300"> | <img src="assets/screenshots/About Us Page.png" width="300"> | <img src="assets/screenshots/Settings Page.png" width="300"> |
+| <img src="assets/screenshots/Feedback Page.png" width="400"> | <img src="assets/screenshots/About Us Page.png" width="400"> | <img src="assets/screenshots/Settings Page.png" width="400"> |
 
 ---
 
