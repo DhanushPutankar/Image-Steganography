@@ -147,3 +147,10 @@ lib/
 * 📱 Mobile version (Android/iOS)
 * 🗜 Compression for embedded data
 * 🔐 Password-protected messages
+
+
+---
+
+## Developed By
+
+**Prafull Agrawal**
